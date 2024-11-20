@@ -10,4 +10,4 @@ Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas infor
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 Entrega – Possui status e código de rastreio.
 
-![DESAFIO E-COMMERCE](desafio_bdEcommerce)
+![DESAFIO E-COMMERCE](desafio_bdEcommerce.png)
